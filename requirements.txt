@@ -2,8 +2,4 @@ rubika
 mutagen
 gtts
 rubpy
-time
-rubika.encryption
-random
-glob
 rubika.client
